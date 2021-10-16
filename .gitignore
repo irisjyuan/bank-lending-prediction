@@ -1,0 +1,5 @@
+/venv
+lending_topredict.csv
+lending_train.csv
+sample_submission.csv
+.DS_Store
