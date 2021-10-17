@@ -99,8 +99,9 @@ def create_model(df):
 
     model = tf.keras.Sequential([
         normalizer,
-        tf.keras.layers.Dense(10, activation='relu'),
-        tf.keras.layers.Dense(10, activation='relu'),
+        tf.keras.layers.Dense(16, activation='sigmoid'),
+        tf.keras.layers.Dense(4, activation='sigmoid'),
+        tf.keras.layers.Dense(2, activation='sigmoid'),
         tf.keras.layers.Dense(1)
     ])
 
@@ -114,7 +115,7 @@ def create_model(df):
 def train_model(df, model):
     target = df.pop('loan_paid')
     tensor = tf.convert_to_tensor(df)
-    model.fit(tensor, target, epochs=15, batch_size=10000)
+    model.fit(tensor, target, epochs=50, batch_size=10000)
     return model
 
 
@@ -128,15 +129,13 @@ def main():
     # # pre-processing train df
     [train_df, mapping] = create_train_df()
 
-    for k, v in mapping.items():
-        if k != 'employment':
-            print(v)
     model = create_model(train_df)
     model = train_model(train_df, model)
     print(model.summary())
 
     predict_df = create_predict_df(mapping)
-    print(predict_df)
+
+    print(train_df.shape, predict_df.shape)
 
     pred = run_model(predict_df, model)
     print(pred)
