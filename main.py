@@ -72,7 +72,6 @@ def create_predict_df(mapping):
         if df.dtypes[header] == 'object':
             df[header] = df[header].map(mapping[header])
 
-
     df = df.fillna(0)
     df = df.astype(int)
 
@@ -128,11 +127,12 @@ def main():
 
     # # pre-processing train df
     [train_df, mapping] = create_train_df()
-    # model = create_model(train_df)
-    # model = train_model(train_df, model)
-    # model.save('./model')
 
-    model = tf.keras.models.load_model('./model')
+    for k, v in mapping.items():
+        if k != 'employment':
+            print(v)
+    model = create_model(train_df)
+    model = train_model(train_df, model)
     print(model.summary())
 
     predict_df = create_predict_df(mapping)
@@ -140,7 +140,6 @@ def main():
 
     pred = run_model(predict_df, model)
     print(pred)
-
 
     create_submission(pred)
 
