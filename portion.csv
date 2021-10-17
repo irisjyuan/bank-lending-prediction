@@ -1,0 +1,45 @@
+ID,requested_amnt,loan_duration,employment,employment_length,race,reason_for_loan,extended_reason,annual_income,debt_to_income_ratio,employment_verified,public_bankruptcies,zipcode,state,home_ownership_status,delinquency_last_2yrs,fico_score_range_low,fico_score_range_high,fico_inquired_last_6mths,months_since_last_delinq,revolving_balance,total_revolving_limit,type_of_application,any_tax_liens,loan_paid
+0,32000.0, 60 months,SVP,4 years,W,debt_consolidation,Debt consolidation,250000.0,16.35,Verified,0.0,333xx,FL,RENT,0.0,775.0,779.0,0.0,,22480.0,105700.0,Individual,0.0,1
+1,6000.0, 36 months,METAL FABRICATION SUPERVISOR,10+ years,B,home_improvement,Home improvement,70000.0,15.22,Source Verified,0.0,727xx,AR,MORTGAGE,0.0,650.0,654.0,1.0,30.0,6313.0,14600.0,Individual,0.0,1
+2,4200.0, 36 months,insurance collector specialist,10+ years,W,debt_consolidation,Debt consolidation,37000.0,20.99,Not Verified,0.0,146xx,NY,OWN,1.0,665.0,669.0,0.0,11.0,4482.0,10300.0,Individual,0.0,1
+3,9725.0, 36 months,Kitchen Manager,10+ years,W,debt_consolidation,Debt consolidation,45000.0,37.76,Source Verified,0.0,497xx,MI,OWN,0.0,705.0,709.0,0.0,,21705.0,25200.0,Individual,0.0,1
+4,24000.0, 36 months,Appeals Specialist,10+ years,B,debt_consolidation,Debt consolidation,86000.0,32.1,Not Verified,0.0,550xx,MN,MORTGAGE,0.0,650.0,654.0,0.0,76.0,30406.0,104200.0,Individual,0.0,1
+5,12000.0, 36 months,russo lighting associates,10+ years,W,debt_consolidation,pay off,45000.0,8.48,Verified,0.0,115xx,NY,RENT,0.0,690.0,694.0,0.0,,13991.0,,Individual,0.0,1
+6,20000.0, 36 months,Territory Manager ,2 years,P,debt_consolidation,Debt consolidation,108000.0,10.73,Not Verified,0.0,088xx,NJ,MORTGAGE,0.0,710.0,714.0,0.0,26.0,8743.0,25600.0,Individual,0.0,0
+7,25000.0, 36 months,,,W,debt_consolidation,Debt consolidation,80000.0,12.23,Source Verified,0.0,023xx,MA,MORTGAGE,3.0,660.0,664.0,1.0,10.0,27347.0,38500.0,Individual,0.0,1
+8,18000.0, 36 months,management,10+ years,W,vacation,Vacation,60000.0,23.34,Source Verified,0.0,481xx,MI,OWN,0.0,720.0,724.0,1.0,,28520.0,48800.0,Individual,0.0,0
+9,12500.0, 60 months,Director of Marketing,10+ years,B,credit_card,Credit card refinancing,85000.0,19.48,Source Verified,0.0,571xx,SD,MORTGAGE,0.0,650.0,654.0,1.0,,19711.0,38000.0,Individual,0.0,1
+10,10000.0, 36 months,Building Administrator,7 years,W,credit_card,Credit card refinancing,106000.0,14.39,Source Verified,1.0,206xx,MD,OWN,0.0,695.0,699.0,2.0,,8508.0,17600.0,Individual,0.0,0
+11,23325.0, 60 months,Owner,10+ years,W,debt_consolidation,Debt consolidation,57000.0,28.8,Not Verified,0.0,461xx,IN,OWN,0.0,675.0,679.0,2.0,37.0,24576.0,34000.0,Individual,0.0,0
+12,2275.0, 36 months,lead dock ,8 years,W,home_improvement,Home improvement,37500.0,27.91,Verified,0.0,722xx,AR,OWN,0.0,680.0,684.0,1.0,27.0,2973.0,11000.0,Individual,0.0,1
+13,9000.0, 36 months,Director of Sales,3 years,W,credit_card,Credit card refinancing,125000.0,17.43,Not Verified,1.0,852xx,AZ,OWN,0.0,720.0,724.0,0.0,,20939.0,81900.0,Individual,0.0,1
+14,17000.0, 36 months,Virginia Farm Bureau,10+ years,W,debt_consolidation,Remodel conslidation,44000.0,24.76,Not Verified,0.0,243xx,VA,MORTGAGE,0.0,770.0,774.0,1.0,,7010.0,,Individual,0.0,1
+15,21775.0, 36 months,Owner,4 years,B,home_improvement,Home improvement,125000.0,16.83,Source Verified,1.0,117xx,NY,MORTGAGE,0.0,650.0,654.0,0.0,,16646.0,33000.0,Individual,0.0,1
+16,12000.0, 36 months,truck driver,3 years,W,home_improvement,Home improvement,65000.0,16.23,Verified,0.0,774xx,TX,MORTGAGE,1.0,685.0,689.0,0.0,17.0,4795.0,12100.0,Individual,0.0,1
+17,12000.0, 36 months,Information Technology,2 years,W,debt_consolidation,Debt consolidation,56000.0,21.62,Source Verified,0.0,531xx,WI,MORTGAGE,0.0,685.0,689.0,0.0,78.0,13681.0,19800.0,Individual,0.0,1
+18,10000.0, 36 months,,,W,credit_card,Credit card refinancing,147000.0,26.09,Not Verified,0.0,852xx,AZ,MORTGAGE,1.0,695.0,699.0,0.0,7.0,32248.0,37900.0,Individual,0.0,1
+19,24000.0, 60 months,Lancaster Foods,10+ years,W,credit_card,New Start,65000.0,24.08,Verified,0.0,210xx,MD,RENT,0.0,675.0,679.0,0.0,,31934.0,33800.0,Individual,0.0,0
+20,6000.0, 36 months,Supervisor,10+ years,W,debt_consolidation,Debt consolidation,35000.0,23.39,Not Verified,0.0,321xx,FL,OWN,0.0,760.0,764.0,0.0,,6102.0,19100.0,Individual,0.0,0
+21,6000.0, 36 months,LABORER,10+ years,W,debt_consolidation,Debt consolidation,30000.0,10.79,Not Verified,0.0,321xx,FL,OWN,0.0,700.0,704.0,0.0,,5185.0,5800.0,Individual,0.0,1
+22,8000.0, 36 months,Law enforcement,10+ years,W,debt_consolidation,Debt consolidation,85000.0,21.09,Verified,1.0,871xx,NM,OWN,0.0,660.0,664.0,0.0,66.0,111.0,8500.0,Individual,0.0,0
+23,6775.0, 36 months,School Counselor,10+ years,W,debt_consolidation,Debt consolidation,85000.0,26.92,Source Verified,0.0,109xx,NY,MORTGAGE,0.0,730.0,734.0,0.0,54.0,25305.0,47400.0,Individual,0.0,0
+24,5375.0, 60 months,ASG,< 1 year,P,other,Other,87500.0,24.16,Verified,0.0,033xx,NH,MORTGAGE,2.0,675.0,679.0,2.0,16.0,40237.0,45500.0,Individual,0.0,0
+25,35000.0, 36 months,First Vice President,1 year,W,debt_consolidation,Debt consolidation,110000.0,24.07,Verified,0.0,900xx,CA,RENT,0.0,695.0,699.0,1.0,,25853.0,61400.0,Individual,0.0,1
+26,10550.0, 60 months,"Precision Concrete, Inc.",10+ years,B,other,Partner Buy Out,128000.0,5.75,Not Verified,0.0,934xx,CA,MORTGAGE,0.0,650.0,654.0,1.0,,83171.0,,Individual,0.0,1
+27,2500.0, 36 months,STNA,10+ years,W,debt_consolidation,Debt consolidation,27000.0,16.04,Not Verified,0.0,446xx,OH,RENT,0.0,680.0,684.0,1.0,,1442.0,2300.0,Individual,0.0,0
+28,25000.0, 60 months,RN,1 year,W,debt_consolidation,Debt consolidation,74000.0,21.16,Source Verified,0.0,254xx,WV,MORTGAGE,0.0,695.0,699.0,0.0,29.0,26892.0,32900.0,Individual,0.0,1
+29,10000.0, 36 months,carlson hotel,9 years,W,debt_consolidation,Debt consolidation,35000.0,10.63,Not Verified,0.0,554xx,MN,RENT,0.0,675.0,679.0,0.0,,9324.0,18100.0,Individual,0.0,0
+30,10000.0, 60 months,Inside Sales,4 years,B,debt_consolidation,Debt consolidation,52000.0,23.33,Source Verified,0.0,757xx,TX,OWN,0.0,680.0,684.0,0.0,,1188.0,21100.0,Individual,0.0,1
+31,5600.0, 36 months,Ground Safety Manager,10+ years,W,debt_consolidation,Debt consolidation,93000.0,26.0,Source Verified,0.0,800xx,CO,MORTGAGE,2.0,720.0,724.0,1.0,13.0,9076.0,29600.0,Individual,0.0,1
+32,6000.0, 36 months,transportation,8 years,A,car,Car financing,95000.0,3.63,Not Verified,0.0,773xx,TX,MORTGAGE,3.0,735.0,739.0,0.0,11.0,5548.0,37500.0,Individual,0.0,1
+33,5000.0, 36 months,Controller,2 years,W,vacation,Vacation,72200.0,13.08,Source Verified,0.0,983xx,WA,OWN,0.0,690.0,694.0,0.0,,1092.0,1100.0,Individual,0.0,0
+34,6375.0, 36 months,Corrections Academy  Coordinator,4 years,W,debt_consolidation,Debt consolidation,61400.0,25.55,Not Verified,0.0,344xx,FL,RENT,4.0,665.0,669.0,0.0,14.0,4203.0,8500.0,Individual,0.0,1
+35,15000.0, 36 months,Capital Associates Incorporated,2 years,W,debt_consolidation,Debt consolidation,65000.0,10.64,Not Verified,0.0,275xx,NC,MORTGAGE,0.0,795.0,799.0,1.0,,5352.0,,Individual,0.0,1
+36,16000.0, 60 months,Director,5 years,W,credit_card,Credit card refinancing,200000.0,7.82,Not Verified,0.0,107xx,NY,MORTGAGE,0.0,710.0,714.0,1.0,,29086.0,51000.0,Individual,0.0,1
+37,2500.0, 36 months,Service Foreman,10+ years,W,home_improvement,Home improvement,90000.0,22.8,Source Verified,0.0,359xx,AL,MORTGAGE,0.0,690.0,694.0,0.0,,2038.0,2500.0,Individual,1.0,1
+38,2500.0, 36 months,Palliative Care Social Worker,1 year,W,other,Other,46992.0,16.75,Source Verified,0.0,290xx,SC,MORTGAGE,0.0,690.0,694.0,0.0,,9979.0,12000.0,Individual,0.0,1
+39,35000.0, 60 months,Branch Manager,< 1 year,W,debt_consolidation,Debt consolidation,90000.0,12.33,Verified,0.0,109xx,NY,RENT,0.0,695.0,699.0,0.0,24.0,13508.0,35200.0,Individual,0.0,0
+40,17050.0, 36 months,,,W,credit_card,consolidation,120000.0,11.1,Verified,0.0,941xx,CA,RENT,0.0,695.0,699.0,1.0,,23108.0,41100.0,Individual,0.0,1
+41,8650.0, 36 months,"Kaufman, Rossin & Co.",10+ years,W,other,Personal Loan,60000.0,23.26,Verified,0.0,330xx,FL,MORTGAGE,0.0,720.0,724.0,0.0,,24242.0,,Individual,0.0,1
+42,18500.0, 60 months,Financial Analyst,5 years,B,credit_card,Credit card refinancing,70200.0,32.48,Source Verified,0.0,775xx,TX,MORTGAGE,0.0,650.0,654.0,0.0,,19772.0,26900.0,Individual,0.0,1
+43,16000.0, 36 months,Senior Consultant,< 1 year,P,home_improvement,Home improvement,95000.0,14.75,Verified,0.0,221xx,VA,MORTGAGE,1.0,675.0,679.0,0.0,4.0,4279.0,11200.0,Individual,1.0,1

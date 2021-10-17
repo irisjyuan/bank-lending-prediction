@@ -6,3 +6,5 @@ sample_submission.csv
 predict.pkl
 train.pkl
 submission.csv
+/__pycache__
+/model
